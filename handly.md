@@ -1,3 +1,7 @@
+
+## VMware vSphere ESXi 6.7 key
+0H6A3-2UJ5P-38U89-0UAUM-9XU3L
+
 ## VMware vSphere ESXi 7.0 Enterprise Plus key
 
 * JJ2WR-25L9P-H71A8-6J20P-C0K3F
